@@ -1,0 +1,11 @@
+{
+  "name": "maths-script",
+  "version": "1.0.0",
+  "description": "some basic maths operations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harshsinha17",
+  "license": "ISC"
+}
